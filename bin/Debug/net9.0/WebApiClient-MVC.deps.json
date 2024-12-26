@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "WebApiClient-MVC/1.0.0": {
+        "dependencies": {
+          "RestSharp": "112.1.1-alpha.0.4"
+        },
+        "runtime": {
+          "WebApiClient-MVC.dll": {}
+        }
+      },
+      "RestSharp/112.1.1-alpha.0.4": {
+        "runtime": {
+          "lib/net9.0/RestSharp.dll": {
+            "assemblyVersion": "112.1.1.0",
+            "fileVersion": "112.1.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApiClient-MVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestSharp/112.1.1-alpha.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tAhvIS/HApzAScDDXw/WalkSMzVtu3bcmkbLdj9R+K1n+Zhenkos7QmqYQWfz9VuNY1bBljnyw7IZWohkG4S2g==",
+      "path": "restsharp/112.1.1-alpha.0.4",
+      "hashPath": "restsharp.112.1.1-alpha.0.4.nupkg.sha512"
+    }
+  }
+}

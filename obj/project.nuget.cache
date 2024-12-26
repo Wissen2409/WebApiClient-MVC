@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KqhdJGXs1og=",
+  "success": true,
+  "projectFilePath": "/Users/emrahelis/WebApiClient-MVC/WebApiClient-MVC.csproj",
+  "expectedPackageFiles": [
+    "/Users/emrahelis/.nuget/packages/restsharp/112.1.1-alpha.0.4/restsharp.112.1.1-alpha.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
