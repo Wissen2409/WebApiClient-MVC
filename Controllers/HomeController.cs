@@ -48,6 +48,8 @@ public class HomeController : Controller
         // token bilgisi, header ile gönderilmelidir!!
         // restcharp ile header eklemek aşağıdaki gibidir!!
         string tokenString = token.Replace("/","").Replace('"',' ').Trim();
+
+        // üstteki metotdan jwt token aldık, ve bu metoda, header ile jwt token göndererek metodun sonuç vermesini sağladık!!
         request.AddHeader("Authorization","Bearer "+tokenString);
         request.AddHeader("Content-Type","application/json");
 

@@ -98,3 +98,4 @@
 /Users/emrahelis/WebApiClient-MVC/obj/Debug/net9.0/WebApiClient-MVC.pdb
 /Users/emrahelis/WebApiClient-MVC/obj/Debug/net9.0/WebApiClient-MVC.genruntimeconfig.cache
 /Users/emrahelis/WebApiClient-MVC/obj/Debug/net9.0/ref/WebApiClient-MVC.dll
+/Users/emrahelis/WebApiClient-MVC/obj/Debug/net9.0/WebApiClient-MVC.sourcelink.json
